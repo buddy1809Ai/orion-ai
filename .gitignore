@@ -1,3 +1,21 @@
-.env 
-orion.db 
-*.db 
+# Environment files
+.env
+
+# Database files
+orion.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.env/
+
+ 
